@@ -1,2 +1,2 @@
 # portofolio
-i make responsive website with JS, HTML and CSS
+JS, HTML and CSS
